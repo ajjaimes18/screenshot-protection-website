@@ -1,0 +1,22 @@
+
+body {
+    font-family: Arial, sans-serif;
+    padding: 2em;
+    background-color: #f0f2f5;
+    text-align: center;
+}
+
+input[type="url"] {
+    width: 300px;
+    padding: 0.5em;
+    margin-right: 0.5em;
+}
+
+button {
+    padding: 0.5em 1em;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
